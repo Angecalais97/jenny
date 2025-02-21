@@ -1,4 +1,4 @@
-## HANDS ON PROJECT
+# HANDS ON PROJECT
 
 ## Please documents each steps of this project. 
 use */carles* on the browser to see the app.
